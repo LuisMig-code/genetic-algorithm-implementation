@@ -56,9 +56,9 @@ Após a execução, o arquivo `alocacao_clientes.csv` será gerado no diretório
 
 ## Personalização
 - **Parâmetros do Algoritmo Genético**:
-  - Tamanho da população: 100
-  - Número de gerações: 200
-  - Taxa de mutação: 0.1
+  - Tamanho da população: 300
+  - Número de gerações: 600
+  - Taxa de mutação: 0.009
 - Esses parâmetros podem ser ajustados dentro da função `genetic_algorithm()` para otimização dos resultados.
 
 ## Contato
